@@ -20,6 +20,7 @@ Discover my animation work where I bring stories to life through frame-by-frame 
   Your browser does not support the video tag.
 </video>
 
+
 **Stylized Character and Environment Animation**
 
 This project was an individual endeavor where I collaborated closely with a client to create a visually appealing animation. I utilized Duik Bassel 2 in Adobe After Effects for the character rigging and animation, ensuring smooth and lifelike character movements. For the environments, I incorporated Cinema 4D to develop rich, stylized 3D settings that complement the characters. The combination of these advanced tools allowed me to achieve a professional and aesthetically stylized look that met the client's specific needs and vision.
@@ -28,6 +29,7 @@ This project was an individual endeavor where I collaborated closely with a clie
   <source src="./src/Videos/OverfillProtectionDevice.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+
 
 **Simplified Product Demonstration Through 3D Visualization**
 
