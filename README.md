@@ -4,7 +4,7 @@ Welcome to my digital portfolio showcasing my work in UX/UI design, 3D animation
 
 In this section, explore various UX/UI design projects where I focus on enhancing user experience through intuitive interface design and thoughtful user interactions.
 
-![UX/UI Project 1](./src/images/Senio.png)  
+![UX/UI Project 1](./src/Images/Senio.png)  
 **Project Title 1**: Brief description of what the project involved and the solutions it aimed to provide.
 
 ![UX/UI Project 2](url-to-your-image2)  
