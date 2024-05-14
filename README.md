@@ -26,7 +26,7 @@ My 3D animation projects highlight my capability in character animation, environ
 
 Discover my 2D animation work where I bring stories to life through frame-by-frame animation and compelling motion graphics.
 
-[![Watch the video](https://img.youtube.com/vi/R7U2RM9V-NQ/0.jpg)](https://www.youtube.com/watch?v=R7U2RM9V-NQ)
+![Demo Video](./src/Videos/DuikBassel2Workflow.mp4)
 
 **Animation Title 1**: Explanation of the animation process and the story behind it.
 
