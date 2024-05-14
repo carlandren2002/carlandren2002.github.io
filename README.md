@@ -1,5 +1,3 @@
-# Carl Andren's Portfolio
-
 Welcome to my digital portfolio showcasing my work in UX/UI design, 3D animation, and 2D animation. Here, you'll find a selection of projects that demonstrate my skills and approach to digital arts and design.
 
 ## UX/UI Design
