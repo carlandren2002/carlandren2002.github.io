@@ -35,8 +35,7 @@ Discover my 2D animation work where I bring stories to life through frame-by-fra
 ## Contact Information
 
 For more information or to discuss potential projects, please reach out via:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
+- **Email**: [your-email@example.com](mailto:carl_andren@outlook.com)
+- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/carl-andr%C3%A9n-617b811b0/)
 
 Thank you for visiting my portfolio!
