@@ -26,7 +26,7 @@ My 3D animation projects highlight my capability in character animation, environ
 
 Discover my 2D animation work where I bring stories to life through frame-by-frame animation and compelling motion graphics.
 
-<video width="320" height="240" controls>
+<video width="100%" height="auto" controls>
   <source src="./src/Videos/DuikBassel2Workflow.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
