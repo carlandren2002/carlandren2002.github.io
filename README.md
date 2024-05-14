@@ -6,7 +6,8 @@ In this section, explore various UX/UI design projects where I focus on enhancin
 
 ![UX/UI Project 1](./src/Images/Senio.png)
 ![UX/UI Project 1](./src/Images/Senio2.png)  
-**Project Title 1**: Brief description of what the project involved and the solutions it aimed to provide.
+**Project Title 1: Digitalizing Home Care for the Elderly**  
+This project was aimed at improving existing market solutions for digitalizing home care services for the elderly, which were often outdated and had cumbersome user experiences. Conducted at Chalmers, I was solely responsible for the UX and UI design, focusing on modernizing the interface and workflow to reduce the day-to-day tedium for home care workers. My approach prioritized making information easily accessible and organizing it according to an intuitive hierarchy, ensuring that caregivers could focus more on care and less on navigating the software.
 
 ![UX/UI Project 2](url-to-your-image2)  
 **Project Title 2**: Insight into the project's scope and your specific contributions.
