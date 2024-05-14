@@ -6,40 +6,38 @@ In this section, explore various UX/UI design projects where I focus on enhancin
 
 ![UX/UI Project 1](./src/Images/Senio.png)
 ![UX/UI Project 1](./src/Images/Senio2.png)  
-**Project Title 1: Digitalizing Home Care for the Elderly**  
+
+**Digitalizing Home Care for the Elderly**  
+
 This project was aimed at improving existing market solutions for digitalizing home care services for the elderly, which were often outdated and had cumbersome user experiences. Conducted at Chalmers, I was solely responsible for the UX and UI design, focusing on modernizing the interface and workflow to reduce the day-to-day tedium for home care workers. My approach prioritized making information easily accessible and organizing it according to an intuitive hierarchy, ensuring that caregivers could focus more on care and less on navigating the software.
 
-![UX/UI Project 2](url-to-your-image2)  
-**Project Title 2**: Insight into the project's scope and your specific contributions.
+## 2D/3D Animation
 
-## 3D Animation
-
-My 3D animation projects highlight my capability in character animation, environmental modeling, and visual storytelling.
-
-![3D Animation Project 1](url-to-your-image3)  
-**Animation Title 1**: Overview of the animation project and any notable techniques used.
-
-![3D Animation Project 2](url-to-your-image4)  
-**Animation Title 2**: Description of the animation's theme and what it aims to convey.
-
-## 2D Animation
-
-Discover my 2D animation work where I bring stories to life through frame-by-frame animation and compelling motion graphics.
+Discover my animation work where I bring stories to life through frame-by-frame animation and compelling motion graphics.
 
 <video width="100%" height="auto" controls>
   <source src="./src/Videos/DuikBassel2Workflow.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
-**Animation Title 1**: Explanation of the animation process and the story behind it.
+**Stylized Character and Environment Animation**
 
-![2D Animation Project 2](url-to-your-image6)  
-**Animation Title 2**: Details on the creative process and the technologies used.
+This project was an individual endeavor where I collaborated closely with a client to create a visually appealing animation. I utilized Duik Bassel 2 in Adobe After Effects for the character rigging and animation, ensuring smooth and lifelike character movements. For the environments, I incorporated Cinema 4D to develop rich, stylized 3D settings that complement the characters. The combination of these advanced tools allowed me to achieve a professional and aesthetically stylized look that met the client's specific needs and vision.
+
+<video width="100%" height="auto" controls>
+  <source src="./src/Videos/OverfillProtectionDevice.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+**Simplified Product Demonstration Through 3D Visualization**
+
+In this project, my objective was to clearly and simply visualize a client's new product, elucidating its functionality and benefits. Starting from basic images of the product, I created detailed 3D models and developed a sleek, straightforward video that effectively demonstrated how the product works. This approach not only enhanced the product's appeal but also helped the client effectively communicate its value to potential customers. The client was extremely pleased with the result, highlighting the video's role in enhancing product understanding and boosting customer engagement.
 
 ## Contact Information
 
 For more information or to discuss potential projects, please reach out via:
-- **Email**: [your-email@example.com](mailto:carl_andren@outlook.com)
+- **Email**: [carl_andren@outlook.com](mailto:carl_andren@outlook.com)
 - **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/carl-andr%C3%A9n-617b811b0/)
+- **Freelancer**: [View my reviews on Freelancer.com](https://www.freelancer.com/u/CarlAndren)
 
 Thank you for visiting my portfolio!
