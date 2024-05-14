@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Carl Andren's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my digital portfolio showcasing my work in UX/UI design, 3D animation, and 2D animation. Here, you'll find a selection of projects that demonstrate my skills and approach to digital arts and design.
 
-## Available Scripts
+## UX/UI Design
 
-In the project directory, you can run:
+In this section, explore various UX/UI design projects where I focus on enhancing user experience through intuitive interface design and thoughtful user interactions.
 
-### `npm start`
+![UX/UI Project 1](url-to-your-image1)  
+**Project Title 1**: Brief description of what the project involved and the solutions it aimed to provide.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![UX/UI Project 2](url-to-your-image2)  
+**Project Title 2**: Insight into the project's scope and your specific contributions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 3D Animation
 
-### `npm test`
+My 3D animation projects highlight my capability in character animation, environmental modeling, and visual storytelling.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![3D Animation Project 1](url-to-your-image3)  
+**Animation Title 1**: Overview of the animation project and any notable techniques used.
 
-### `npm run build`
+![3D Animation Project 2](url-to-your-image4)  
+**Animation Title 2**: Description of the animation's theme and what it aims to convey.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 2D Animation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Discover my 2D animation work where I bring stories to life through frame-by-frame animation and compelling motion graphics.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![2D Animation Project 1](url-to-your-image5)  
+**Animation Title 1**: Explanation of the animation process and the story behind it.
 
-### `npm run eject`
+![2D Animation Project 2](url-to-your-image6)  
+**Animation Title 2**: Details on the creative process and the technologies used.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contact Information
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For more information or to discuss potential projects, please reach out via:
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my portfolio!
