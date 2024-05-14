@@ -11,6 +11,7 @@ In this section, explore various UX/UI design projects where I focus on enhancin
 
 This project was aimed at improving existing market solutions for digitalizing home care services for the elderly, which were often outdated and had cumbersome user experiences. Conducted at Chalmers, I was solely responsible for the UX and UI design, focusing on modernizing the interface and workflow to reduce the day-to-day tedium for home care workers. My approach prioritized making information easily accessible and organizing it according to an intuitive hierarchy, ensuring that caregivers could focus more on care and less on navigating the software.
 
+
 ## 2D/3D Animation
 
 Discover my animation work where I bring stories to life through frame-by-frame animation and compelling motion graphics.
@@ -21,6 +22,7 @@ Discover my animation work where I bring stories to life through frame-by-frame 
 </video>
 
 
+
 **Stylized Character and Environment Animation**
 
 This project was an individual endeavor where I collaborated closely with a client to create a visually appealing animation. I utilized Duik Bassel 2 in Adobe After Effects for the character rigging and animation, ensuring smooth and lifelike character movements. For the environments, I incorporated Cinema 4D to develop rich, stylized 3D settings that complement the characters. The combination of these advanced tools allowed me to achieve a professional and aesthetically stylized look that met the client's specific needs and vision.
@@ -29,6 +31,7 @@ This project was an individual endeavor where I collaborated closely with a clie
   <source src="./src/Videos/OverfillProtectionDevice.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+
 
 
 **Simplified Product Demonstration Through 3D Visualization**
