@@ -1,5 +1,8 @@
 Welcome to my digital portfolio showcasing my work in UX/UI design, 3D animation, and 2D animation. Here, you'll find a selection of projects that demonstrate my skills and approach to digital arts and design.
 
+<!-- Add a margin to create space -->
+<div style="margin-top:20px;"></div>
+
 ## UX/UI Design
 
 In this section, explore various UX/UI design projects where I focus on enhancing user experience through intuitive interface design and thoughtful user interactions.
@@ -7,10 +10,15 @@ In this section, explore various UX/UI design projects where I focus on enhancin
 ![UX/UI Project 1](./src/Images/Senio.png)
 ![UX/UI Project 1](./src/Images/Senio2.png)  
 
+<!-- Add a margin to create space -->
+<div style="margin-top:10px;"></div>
+
 **Digitalizing Home Care for the Elderly**  
 
 This project was aimed at improving existing market solutions for digitalizing home care services for the elderly, which were often outdated and had cumbersome user experiences. Conducted at Chalmers, I was solely responsible for the UX and UI design, focusing on modernizing the interface and workflow to reduce the day-to-day tedium for home care workers. My approach prioritized making information easily accessible and organizing it according to an intuitive hierarchy, ensuring that caregivers could focus more on care and less on navigating the software.
 
+<!-- Add a margin to create space -->
+<div style="margin-top:20px;"></div>
 
 ## 2D/3D Animation
 
