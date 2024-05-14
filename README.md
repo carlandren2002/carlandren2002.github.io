@@ -21,7 +21,8 @@ Discover my animation work where I bring stories to life through frame-by-frame 
   Your browser does not support the video tag.
 </video>
 
-
+<!-- Add a margin to create space -->
+<div style="margin-top:20px;"></div>
 
 **Stylized Character and Environment Animation**
 
@@ -32,7 +33,8 @@ This project was an individual endeavor where I collaborated closely with a clie
   Your browser does not support the video tag.
 </video>
 
-
+<!-- Add a margin to create space -->
+<div style="margin-top:20px;"></div>
 
 **Simplified Product Demonstration Through 3D Visualization**
 
